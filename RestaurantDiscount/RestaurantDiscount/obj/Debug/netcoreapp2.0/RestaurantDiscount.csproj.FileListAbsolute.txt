@@ -1,0 +1,11 @@
+C:\Users\Marti\Desktop\TechModuleSoftuni\RestaurantDiscount\RestaurantDiscount\bin\Debug\netcoreapp2.0\RestaurantDiscount.deps.json
+C:\Users\Marti\Desktop\TechModuleSoftuni\RestaurantDiscount\RestaurantDiscount\bin\Debug\netcoreapp2.0\RestaurantDiscount.runtimeconfig.json
+C:\Users\Marti\Desktop\TechModuleSoftuni\RestaurantDiscount\RestaurantDiscount\bin\Debug\netcoreapp2.0\RestaurantDiscount.runtimeconfig.dev.json
+C:\Users\Marti\Desktop\TechModuleSoftuni\RestaurantDiscount\RestaurantDiscount\bin\Debug\netcoreapp2.0\RestaurantDiscount.dll
+C:\Users\Marti\Desktop\TechModuleSoftuni\RestaurantDiscount\RestaurantDiscount\bin\Debug\netcoreapp2.0\RestaurantDiscount.pdb
+C:\Users\Marti\Desktop\TechModuleSoftuni\RestaurantDiscount\RestaurantDiscount\obj\Debug\netcoreapp2.0\RestaurantDiscount.csprojResolveAssemblyReference.cache
+C:\Users\Marti\Desktop\TechModuleSoftuni\RestaurantDiscount\RestaurantDiscount\obj\Debug\netcoreapp2.0\RestaurantDiscount.csproj.CoreCompileInputs.cache
+C:\Users\Marti\Desktop\TechModuleSoftuni\RestaurantDiscount\RestaurantDiscount\obj\Debug\netcoreapp2.0\RestaurantDiscount.AssemblyInfoInputs.cache
+C:\Users\Marti\Desktop\TechModuleSoftuni\RestaurantDiscount\RestaurantDiscount\obj\Debug\netcoreapp2.0\RestaurantDiscount.AssemblyInfo.cs
+C:\Users\Marti\Desktop\TechModuleSoftuni\RestaurantDiscount\RestaurantDiscount\obj\Debug\netcoreapp2.0\RestaurantDiscount.dll
+C:\Users\Marti\Desktop\TechModuleSoftuni\RestaurantDiscount\RestaurantDiscount\obj\Debug\netcoreapp2.0\RestaurantDiscount.pdb
