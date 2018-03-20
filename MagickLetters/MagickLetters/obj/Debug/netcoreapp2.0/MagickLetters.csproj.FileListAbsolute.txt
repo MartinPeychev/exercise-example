@@ -1,0 +1,11 @@
+C:\Users\Marti\Desktop\TechModuleSoftuni\MagickLetters\MagickLetters\bin\Debug\netcoreapp2.0\MagickLetters.deps.json
+C:\Users\Marti\Desktop\TechModuleSoftuni\MagickLetters\MagickLetters\bin\Debug\netcoreapp2.0\MagickLetters.runtimeconfig.json
+C:\Users\Marti\Desktop\TechModuleSoftuni\MagickLetters\MagickLetters\bin\Debug\netcoreapp2.0\MagickLetters.runtimeconfig.dev.json
+C:\Users\Marti\Desktop\TechModuleSoftuni\MagickLetters\MagickLetters\bin\Debug\netcoreapp2.0\MagickLetters.dll
+C:\Users\Marti\Desktop\TechModuleSoftuni\MagickLetters\MagickLetters\bin\Debug\netcoreapp2.0\MagickLetters.pdb
+C:\Users\Marti\Desktop\TechModuleSoftuni\MagickLetters\MagickLetters\obj\Debug\netcoreapp2.0\MagickLetters.csprojResolveAssemblyReference.cache
+C:\Users\Marti\Desktop\TechModuleSoftuni\MagickLetters\MagickLetters\obj\Debug\netcoreapp2.0\MagickLetters.csproj.CoreCompileInputs.cache
+C:\Users\Marti\Desktop\TechModuleSoftuni\MagickLetters\MagickLetters\obj\Debug\netcoreapp2.0\MagickLetters.AssemblyInfoInputs.cache
+C:\Users\Marti\Desktop\TechModuleSoftuni\MagickLetters\MagickLetters\obj\Debug\netcoreapp2.0\MagickLetters.AssemblyInfo.cs
+C:\Users\Marti\Desktop\TechModuleSoftuni\MagickLetters\MagickLetters\obj\Debug\netcoreapp2.0\MagickLetters.dll
+C:\Users\Marti\Desktop\TechModuleSoftuni\MagickLetters\MagickLetters\obj\Debug\netcoreapp2.0\MagickLetters.pdb
